@@ -7,8 +7,9 @@
 - A flashcard online learning tool with Spring Boot (Uni project)
 
 ## 🌱 I’m currently learning ...
-- Java and Spring Boot
+- Java, Spring Boot and React (JSX)
 - Embedded Systems Programming in C/C++
+- Graphics programming (OpenGL, C++)
 
 <!--
 **arminveres/arminveres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
