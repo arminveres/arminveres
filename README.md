@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on ...
 
-- A flashcard online learning tool with Spring Boot (Uni project)
+- ~~A flashcard online learning tool with Spring Boot (Uni project)~~
 
 ## 🌱 I’m currently learning ...
 - Java, Spring Boot and React (JSX)
