@@ -1,15 +1,16 @@
 ## Hi there 👋
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminveres&layout=compact&hide=vimscript,css,html,scss,sass)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminveres&layout=compact&hide=vimscript,css,html,scss,sass)
 
 ## 🔭 I’m currently working on ...
 
-- A flashcard online learning tool with Spring Boot (Uni project)
+- Pursuing a summer internship @ ams OSRAM
+- Playing around with GTK
+- Bare metal Arduino
 
 ## 🌱 I’m currently learning ...
-- Java, Spring Boot and React (JSX)
 - Embedded Systems Programming in C/C++
-- Graphics programming (OpenGL, C++)
+- GUI applications
 
 <!--
 **arminveres/arminveres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
