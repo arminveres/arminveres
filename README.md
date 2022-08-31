@@ -6,11 +6,14 @@
 
 - Pursuing a summer internship @ ams OSRAM
 - Playing around with GTK
-- Bare metal Arduino
+- Bare metal programming: Atmega328p, Cortex M0
 
 ## 🌱 I’m currently learning ...
 - Embedded Systems Programming in C/C++
 - GUI applications
+
+## 📫 How to reach me:
+- Drop me a line at: biglordtitan@hotmail.com
 
 <!--
 **arminveres/arminveres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
