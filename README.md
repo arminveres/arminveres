@@ -4,15 +4,16 @@
 
 ## 🔭 I’m currently working on ...
 
-- Pursuing a summer internship @ ams OSRAM
-- Playing around with GTK
-- Bare metal programming: Atmega328p, Cortex M0
+- Back to my Studies
+- Bare metal programming: Cortex M0, Atmega328p
 
 ## 🌱 I’m currently learning ...
-- Embedded Systems Programming in C/C++
-- GUI applications
+
+- Embedded Systems Programming in C/C++ (C++ preferred)
+- Rust 🦀
 
 ## 📫 How to reach me:
+
 - Drop me a line at: biglordtitan@hotmail.com
 
 <!--
