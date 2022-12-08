@@ -1,11 +1,14 @@
 ## Hi there 👋
 \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminveres&layout=compact&hide=vimscript,css,html,scss,sass)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminveres&layout=compact)
+<!--
+Does't work:
+&hide=vimscript,css,html,scss,sass)
+-->
 ## 🔭 I’m currently working on ...
 
 - Back to my Studies
-- Bare metal programming: Cortex M0, Atmega328p
+- Embedded programming: Cortex M0, Atmega328p
 
 ## 🌱 I’m currently learning ...
 
@@ -16,11 +19,12 @@
 
 - Drop me a line at: biglordtitan@hotmail.com
 
+## 🏠 Workstation Setup
+
+- If you're interested in my Linux (Fedora) setup, check out my [dotfiles](https://github.com/arminveres/dotfiles)!
+
 <!--
-**arminveres/arminveres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
