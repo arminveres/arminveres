@@ -19,7 +19,7 @@ Does't work:
 
 - Back to my Studies: Computer Science + Computational Science
 - Embedded programming: Cortex M0+, Atmega328p
-- Sorting Algorithm Visualization and auralization tool in Rust
+- Bachelor Thesis on IoT Inventorying and Secure upgrading
 
 ## 🌱 I’m currently learning ...
 
