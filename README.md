@@ -17,14 +17,13 @@ Does't work:
 -->
 ## 🔭 I’m currently working on ...
 
-- Back to my Studies: Computer Science + Computational Science
-- Embedded programming: Cortex M0+, Atmega328p
-- Bachelor Thesis on IoT Inventorying and Secure upgrading
+- Secret project involving a cube, a RP Pico and more...
 
 ## 🌱 I’m currently learning ...
 
 - Embedded Systems Programming in C++ and C
 - Rust, the programming language 🦀
+- Computer Organization
 
 ## 📫 How to reach me:
 
