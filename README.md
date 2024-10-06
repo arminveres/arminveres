@@ -15,10 +15,12 @@
 Does't work:
 &hide=vimscript,css,html,scss,sass)
 -->
+
 ## 🔭 I’m currently working on ...
 
 - Secret project involving a cube, a RP Pico and more...
 
+<!--
 ## 🌱 I’m currently learning ...
 
 - Embedded Systems Programming in C++ and C
@@ -33,7 +35,6 @@ Does't work:
 
 - If you're interested in my Linux (Fedora) setup, check out my [dotfiles](https://github.com/arminveres/dotfiles)!
 
-<!--
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
