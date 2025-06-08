@@ -1,14 +1,19 @@
-## Hi there 👋
+## Hello there 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/java-846a1d?style=for-the-badge&logo=javalang&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?logo=neovim&logoColor=white" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/Lust-%23000000.svg?logo=rust&logoColor=white" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" style="height: 30px"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/Java-846a1d?logo=openjdk&logoColor=white" style="height: 30px"/>
 </p>
+
+I am Armin, a systems programmer interested in embedded and operating systems!
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminveres&layout=compact) -->
 <!--
