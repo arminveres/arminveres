@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff" style="height: 30px"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white" style="height: 30px"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" style="height: 30px"/>
-  <img src="https://img.shields.io/badge/Lust-%23000000.svg?logo=rust&logoColor=white" style="height: 30px"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white" style="height: 30px"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" style="height: 30px"/>
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" style="height: 30px"/>
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" style="height: 30px"/>
